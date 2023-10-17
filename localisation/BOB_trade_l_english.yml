@@ -1,6 +1,9 @@
 ﻿l_english:
  linen:0 "Linen"
- linenDESC:0 ""
+ linenDESC:0 "Stuff idk"
+ 
+ mealworms:0 "Mealworms"
+ mealwormsDESC:0 ""
 
  crickets:0 "Crickets"
  cricketsDESC:0 ""
@@ -16,3 +19,15 @@
 
  flax:0 "Flax"
  flaxDESC:0 ""
+ 
+ lumber:0 "Lumber"
+ lumberDESC:0 ""
+ 
+ stone:0 "Stone"
+ stoneDESC:0 ""
+ 
+ softrock:0 "Softrock"
+ softrockDESC:0 ""
+ 
+ marble:0 "Marble"
+ marbleDESC:0 ""
