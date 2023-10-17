@@ -1,31 +1,25 @@
 #Example: Large parts of Africa and south east Asia
-tropical = {
-	
+tropical = { 
 }
-
-arid = {
-	
+arid = { 
 }
-
-arctic = {
-	
+arctic = { 
 }
-
 #Example: Most of Europe north of med.
-mild_winter = {
-	
+mild_winter = { 
 }
-
 #Example: Inland Europe & Scandinavia
-normal_winter = {
-	
+normal_winter = { 
 }
-
 #Example: Russia & Lappland
-severe_winter = {
-	
+severe_winter = { 
 }
-
-impassable = {
-	
+impassable = { 
+	2113 2115 2098 2106 
+}
+mild_monsoon = { 
+}
+normal_monsoon = { 
+}
+severe_monsoon = { 
 }
