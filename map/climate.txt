@@ -15,7 +15,7 @@ normal_winter = {
 severe_winter = { 
 }
 impassable = { 
-	2113 2115 2098 2106 
+	2113 2115 2098 2106 2042 2054 
 }
 mild_monsoon = { 
 }
