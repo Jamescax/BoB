@@ -21,7 +21,7 @@ sea_area = {
 	1997 1936 1909 1902 1982 1969 1924 1857 1714 1589
 	1356 1252 11 12 10 9 8 7 5 6
 	4 3 2 1 13 14 15 16 17 18
-	19 2132 2133 2134 2135 2136 
+	19 2132 2133 2134 2135 2136 2120 
 }
 ### Deprecated stuff from base game to prevent crashes
 # A province can only belong to one area!
@@ -272,9 +272,6 @@ upper_andalucia_area = {  #4
 
 }
 castille_area = {  #5
-
-}
-toledo_area = {  #5
 
 }
 asturias_area = {  #4
@@ -2700,3 +2697,98 @@ netherlands_area = { }
 indonesian_islands_area = { }
 iceland_area = { }
 south_laos_area = { }
+The
+Toed = { 
+}
+toed_area = { 
+	1910 1895 1899 1906 1919 
+}
+wargenne_area = { 
+	1913 1927 1923 1925 1940 
+}
+riker_country = { 
+	1933 1944 1963 1972 1985 
+}
+harviste_area = { 
+	1956 1951 1957 1958 1974 
+}
+ewesling_area = { 
+	1945 1952 1955 1961 
+}
+house_welds_area = { 
+	1991 1975 1987 1980 2003 
+}
+baubly_area = { 
+	1988 2000 1995 2008 1973 
+}
+the_bridle_area = { 
+	2024 2010 2023 2030 2011 
+}
+aegmerlinks_area = { 
+	2025 2022 2014 2012 2013 
+}
+orgenlinks_area = { 
+	2015 2018 2019 2033 2026 
+}
+eogelsheare_area = { 
+	2034 2039 2057 2070 2040 
+}
+ildery_area = { 
+	2083 2069 2076 2086 
+}
+elbowey_area = { 
+	2080 2082 2099 2094 2107 
+}
+crasceline_area = { 
+	2117 2130 2127 2121 2105 
+}
+harwickery_area = { 
+	1994 2004 2005 2016 2021 
+}
+runtex_area = { 
+	1996 2007 2029 2032 
+}
+greyard_area = { 
+	2027 2031 2058 2075 2043 
+}
+mistelsheares_area = { 
+	2037 2044 2059 2078 2065 
+}
+carrephír_area = { 
+	2064 2055 2051 2067 2084 
+}
+harterig_area = { 
+	2045 2052 2056 
+}
+aryndells_area = { 
+	2028 2036 2035 2038 2041 
+}
+pearrykings_area = { 
+	2047 2060 2066 2063 2062 
+}
+barridreds_area = { 
+	2053 2061 2046 2050 
+}
+aulderglane_area = { 
+	2073 2068 2072 2071 2079 
+}
+marchain_cromber_area = { 
+	2095 2092 2091 2101 2090 
+}
+déa_láer_area = { 
+	2087 2088 2096 2089 2106 
+}
+cunháill_tyor_area = { 
+	2093 2085 2081 2104 2098 
+}
+dar_áird_area = { 
+	2114 2124 2123 2119 2109 
+}
+duthakine_area = { 
+	2111 2112 2122 2100 
+}
+the_shield_area = { 
+	2110 2116 2125 2128 2131 2126 2129 
+}
+ = { 
+}

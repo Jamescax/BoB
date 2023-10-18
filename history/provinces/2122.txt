@@ -1,0 +1,2 @@
+trade_goods = salt
+is_city = no
