@@ -3,3 +3,4 @@ base_manpower = 3
 base_production = 3
 trade_goods = linen
 is_city = no
+center_of_trade = 1

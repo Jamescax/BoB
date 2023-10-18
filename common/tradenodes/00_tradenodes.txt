@@ -1,0 +1,10 @@
+exeat = { 
+	location = 1960
+	end = yes
+	color = { 
+		255 255 0 
+	}
+	members = { 
+		2008 
+	}
+}

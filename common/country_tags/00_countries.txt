@@ -4,3 +4,4 @@ PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
 A01 = "countries/TestCountry.txt"
+ARG = "countries/Argelle.txt"

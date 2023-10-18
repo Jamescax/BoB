@@ -1,2 +1,3 @@
 trade_goods = flax
 is_city = no
+center_of_trade = 1
