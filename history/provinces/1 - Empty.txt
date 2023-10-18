@@ -11,4 +11,4 @@ base_manpower = 1
 culture = test_culture
 religion = test_religion
 
-trade_goods = grain
+trade_goods = lumber

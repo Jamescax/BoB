@@ -147,25 +147,45 @@ unknown = {
 #### Modded Tradegood Prices ####
 #################################
 linen = {
-	base_price = 1
+	base_price = 2.5
 }
 
 mealworms = {
-	base_price = 1
+	base_price = 2
 }
 
 crickets = {
-	base_price = 1
+	base_price = 2.25
 }
 
 honey = {
-	base_price = 1
+	base_price = 2.75
+}
+
+fruitflies = {
+	base_price = 1.5
 }
 
 wax = {
-	base_price = 1
+	base_price = 2.25
 }
 
 flax = {
+	base_price = 1.5
+}
+
+lumber = {
 	base_price = 1
+}
+
+stone = {
+	base_price = 1.5
+}
+
+softrock = {
+	base_price = 1.75
+}
+
+marble = {
+	base_price = 3.5
 }
