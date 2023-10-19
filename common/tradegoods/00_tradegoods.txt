@@ -2275,7 +2275,7 @@ unknown = {
 #### Modded Tradegoods ####
 ###########################
 linen = {
-	color = { 0.86 0.19 0.19 }
+	color = { 159 197 232 }
 	modifier = {
 		land_maintenance_modifier = -0.10
 	}
@@ -2296,7 +2296,7 @@ linen = {
 }
 
 mealworms = {
-	color = { 0.86 0.19 0.19 }
+	color = { 255 217 102 }
 	modifier = {
 		supply_limit_modifier = 0.10
 	}
@@ -2317,7 +2317,7 @@ mealworms = {
 }
 
 crickets = {
-	color = { 0.86 0.19 0.19 }
+	color = { 106 168 79 }
 	modifier = {
 		merc_maintenance_modifier = -0.2
 	}
@@ -2338,7 +2338,7 @@ crickets = {
 }
 
 honey = {
-	color = { 0.86 0.19 0.19 }
+	color = { 255 255 0 }
 	modifier = {
 		prestige = 0.5
 	}
@@ -2359,7 +2359,7 @@ honey = {
 }
 
 fruitflies = {
-	color = { 0.86 0.19 0.19 }
+	color = { 166 77 121 }
 	modifier = {
 		global_monthly_devastation = -0.05
 	}
@@ -2380,7 +2380,7 @@ fruitflies = {
 }
 
 wax = {
-	color = { 0.86 0.19 0.19 }
+	color = { 221 126 107 }
 	modifier = {
 		global_institution_spread = 0.25
 	}
@@ -2401,7 +2401,7 @@ wax = {
 }
 
 flax = {
-	color = { 0.86 0.19 0.19 }
+	color = { 182 215 168 }
 	modifier = {
 		diplomatic_reputation = 2
 	}
@@ -2422,7 +2422,7 @@ flax = {
 }
 
 lumber = {
-	color = { 0.86 0.19 0.19 }
+	color = { 102 0 0 }
 	modifier = {
 		global_ship_cost = -0.10
 	}
@@ -2443,7 +2443,7 @@ lumber = {
 }
 
 stone = {
-	color = { 0.86 0.19 0.19 }
+	color = { 153 153 153 }
 	modifier = {
 		build_cost = -0.10
 	}
@@ -2464,7 +2464,7 @@ stone = {
 }
 
 softrock = {
-	color = { 0.86 0.19 0.19 }
+	color = { 217 217 217 }
 	modifier = {
 		state_maintenance_modifier = -0.2
 	}
@@ -2485,7 +2485,7 @@ softrock = {
 }
 
 marble = {
-	color = { 0.86 0.19 0.19 }
+	color = { 243 243 243 }
 	modifier = {
 		great_project_upgrade_cost = -0.25
 	}
