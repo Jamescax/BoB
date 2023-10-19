@@ -5,3 +5,4 @@ is_city = no
 add_core = ARG
 owner = ARG
 controller = ARG
+trade_goods = softrock

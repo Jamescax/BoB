@@ -1,3 +1,6 @@
 trade_goods = flax
 is_city = no
 center_of_trade = 1
+base_tax = 2
+base_manpower = 1
+base_production = 1
