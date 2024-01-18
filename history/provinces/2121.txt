@@ -1,2 +1,5 @@
 trade_goods = copper
 is_city = no
+add_core = ING
+owner = ING
+controller = ING

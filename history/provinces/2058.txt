@@ -4,3 +4,6 @@ base_production = 3
 trade_goods = linen
 is_city = no
 center_of_trade = 1
+add_core = COT
+owner = COT
+controller = COT

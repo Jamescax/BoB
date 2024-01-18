@@ -1,2 +1,5 @@
 trade_goods = grain
 is_city = no
+owner = CAL
+controller = CAL
+add_core = CAL

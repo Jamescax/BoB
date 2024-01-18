@@ -1,2 +1,5 @@
 trade_goods = salt
 is_city = no
+add_core = COD
+owner = COD
+controller = COD

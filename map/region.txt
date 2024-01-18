@@ -390,5 +390,6 @@ bardle_region = {
 		aegmerlinks_area orgenlinks_area eogelsheare_area ildery_area mistelsheares_area crasceline_area elbowey_area the_bridle_area house_welds_area ewesling_area
 		baubly_area runtex_area greyard_area carrephír_area harwickery_area harviste_area riker_country wargenne_area toed_area harterig_area
 		pearrykings_area aryndells_area barridreds_area aulderglane_area marchain_cromber_area the_shield_area dar_áird_area déa_láer_area duthakine_area cunháill_tyor_area
+		the_bullerows_area aichers_area 
 	}
 }

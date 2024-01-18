@@ -1,2 +1,5 @@
 trade_goods = lumber
 is_city = no
+owner = AGE
+controller = AGE
+add_core = AGE

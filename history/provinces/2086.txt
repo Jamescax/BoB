@@ -4,3 +4,6 @@ base_production = 1
 trade_goods = fish
 is_city = no
 center_of_trade = 1
+add_core = HOR
+owner = HOR
+controller = HOR

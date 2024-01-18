@@ -1,2 +1,5 @@
 trade_goods = flax
 is_city = no
+add_core = CAL
+owner = CAL
+controller = CAL

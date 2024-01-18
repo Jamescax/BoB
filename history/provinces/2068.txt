@@ -1,2 +1,5 @@
 trade_goods = stone
 is_city = no
+add_core = AGE
+owner = AGE
+controller = AGE

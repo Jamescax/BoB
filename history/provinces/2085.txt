@@ -1,2 +1,5 @@
 trade_goods = grain
 is_city = no
+add_core = DEV
+owner = DEV
+controller = DEV

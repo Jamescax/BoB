@@ -1,2 +1,5 @@
 trade_goods = naval_supplies
 is_city = no
+add_core = RED
+owner = RED
+controller = RED

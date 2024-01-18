@@ -1,2 +1,5 @@
 trade_goods = softrock
 is_city = no
+add_core = EAM
+owner = EAM
+controller = EAM

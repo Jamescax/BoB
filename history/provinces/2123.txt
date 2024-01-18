@@ -1,2 +1,5 @@
 trade_goods = lumber
 is_city = no
+add_core = WUL
+owner = WUL
+controller = WUL

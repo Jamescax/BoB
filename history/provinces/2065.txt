@@ -3,3 +3,6 @@ base_manpower = 1
 base_production = 1
 trade_goods = grain
 is_city = no
+add_core = ERT
+owner = ERT
+controller = ERT

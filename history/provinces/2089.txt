@@ -1,3 +1,6 @@
 center_of_trade = 1
 is_city = no
 trade_goods = grain
+add_core = EAM
+owner = EAM
+controller = EAM

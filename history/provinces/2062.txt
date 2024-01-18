@@ -1,2 +1,5 @@
 trade_goods = stone
 is_city = no
+add_core = BAG
+owner = BAG
+controller = BAG

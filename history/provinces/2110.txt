@@ -1,2 +1,5 @@
 trade_goods = iron
 is_city = no
+add_core = STO
+owner = STO
+controller = STO

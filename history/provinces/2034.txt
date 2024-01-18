@@ -4,3 +4,6 @@ base_tax = 5
 base_manpower = 3
 base_production = 3
 center_of_trade = 1
+add_core = SNY
+owner = SNY
+controller = SNY
