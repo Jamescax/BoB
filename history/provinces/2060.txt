@@ -4,3 +4,6 @@ trade_goods = honey
 owner = CAL
 controller = CAL
 add_core = CAL
+base_tax = 1
+base_manpower = 1
+base_production = 1

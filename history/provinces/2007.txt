@@ -3,3 +3,6 @@ is_city = no
 add_core = RYN
 owner = RYN
 controller = RYN
+base_tax = 1
+base_manpower = 1
+base_production = 1

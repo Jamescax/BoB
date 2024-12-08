@@ -4,3 +4,6 @@ center_of_trade = 1
 add_core = ING
 owner = ING
 controller = ING
+base_tax = 1
+base_manpower = 1
+base_production = 1

@@ -4,3 +4,6 @@ trade_goods = grain
 add_core = EAM
 owner = EAM
 controller = EAM
+base_tax = 1
+base_manpower = 1
+base_production = 1

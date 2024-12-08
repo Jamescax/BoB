@@ -4,3 +4,6 @@ trade_goods = fish
 add_core = RUB
 owner = RUB
 controller = RUB
+base_tax = 1
+base_manpower = 1
+base_production = 1
