@@ -13,5 +13,5 @@ primary_culture = english
 		regent = yes
 	}
 }
-capital = 2043
+capital = 2104
 add_government_reform = feudalism_reform
