@@ -4,7 +4,7 @@ height = 2816
 max_provinces = 2138
 
 sea_starts = { 
-
+	2077 2108 2118 2113 2120 2048 2017 1993 2020 1968 1898 1887 1893 1936 1997 1960 1989 2049 2103
 }
 
 only_used_for_random = {
@@ -12,7 +12,8 @@ only_used_for_random = {
 }
 
 lakes = {
-		
+	#Bardle
+	2074 2016
 }
 
 force_coastal = {
