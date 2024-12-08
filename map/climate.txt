@@ -15,8 +15,9 @@ normal_winter = {
 severe_winter = { 
 }
 impassable = { 
+	#Bardle
 	2113 2115 2098 2106 2042 2054 1905 1946 2002 2097
-	2102
+	2102 2137
 }
 mild_monsoon = { 
 }
